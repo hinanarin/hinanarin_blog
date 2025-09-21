@@ -91,7 +91,7 @@ export const siteConfig: SiteConfig = {
 			subtitle: [
 				"欢迎来到Hinarin的博客",
 				"hinarin的个人小窝",
-				"Carousel Focus: User Experience",
+				"来一起交流学习吧",
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
@@ -190,12 +190,7 @@ export const navBarConfig: NavBarConfig = {
 					external: true,
 					icon: "fa6-brands:bilibili",
 				},
-				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
-					external: true,
-					icon: "mdi:git",
-				},
+				
 			],
 		},
 		{
@@ -294,8 +289,8 @@ export const commentConfig: CommentConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "Announcement", // 公告标题
-	content: "Welcome to my blog! This is a sample announcement.", // 公告内容
+	title: "这里是hinarin的个人博客，会在这里这里发些自己喜欢的东西什么的", // 公告标题
+	content: "来到此处可以到处看看", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
