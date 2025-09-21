@@ -3,9 +3,9 @@ tittle: hinarin的第一个文章
 description: 随便写写
 published: 2025-09-21
 data: 2025-09-21
-draft:false
-tags:[hianrin]
-image:.cover_01.jpg
+draft: false
+tags: [hianrin]
+image: .cover_01.jpg
 
 ---
 # hinarin的第一个博客文章
