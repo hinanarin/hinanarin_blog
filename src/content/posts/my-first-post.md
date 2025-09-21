@@ -5,7 +5,7 @@ published: 2025-09-21
 data: 2025-09-21
 draft: false
 tags: [hianrin]
-image: "/images/cover_01.jpg"
+image: guide/cover_01.jpg
 
 ---
 # hinarin的第一个博客文章
